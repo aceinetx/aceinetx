@@ -5,6 +5,7 @@
 ## Check this out!
 [EndUI](https://github.com/aceinetx/endui)<br>
 [yHook](https://github.com/aceinetx/yHook)<br>
+[yHook min](https://gist.github.com/aceinetx/8a31695d3c0d9eaf9a9a071590aa7ba7)<br>
 [ZInjector](https://github.com/aceinetx/ZInjector)<br>
 [Watermelon++](https://github.com/aceinetx/Watermelon)<br>
 [aceinetx.gzdoom](https://github.com/aceinetx/aceinetx.gzdoom)<br>

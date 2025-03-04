@@ -4,6 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aceinetx&layout=compact&hide_progress=true&theme=radical&bg_color=161317&title_color=8b57eb&text_color=D8C6CB)](https://github.com/anuraghazra/github-readme-stats)
 ## Check this out!
 [yhOS](https://github.com/aceinetx/yhos)<br>
+[rebuild](https://github.com/aceinetx/rebuild)<br>
 [DC](https://github.com/dc-lang)<br>
 [EndUI](https://github.com/aceinetx/endui)<br>
 [yHook](https://github.com/aceinetx/yHook)<br>

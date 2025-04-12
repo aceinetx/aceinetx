@@ -4,16 +4,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aceinetx&layout=compact&hide_progress=true&theme=radical&bg_color=161317&title_color=8b57eb&text_color=D8C6CB)](https://github.com/anuraghazra/github-readme-stats)
 ## My fav projects
-[wof](https://github.com/aceinetx/wof)
-
-[rebuild](https://github.com/aceinetx/rebuild)
-
-[yhOS](https://github.com/aceinetx/yhos)
-
-[EndUI](https://github.com/aceinetx/endui)
-
-[yHook](https://github.com/aceinetx/yHook)
-
-[Watermelon++](https://github.com/aceinetx/Watermelon)
-## My mirrors
-[wof](https://github.com/aceinetx/wof)
+[wof](https://github.com/aceinetx/wof)<br>
+[rebuild](https://github.com/aceinetx/rebuild)<br>
+[yhOS](https://github.com/aceinetx/yhos)<br>
+[EndUI](https://github.com/aceinetx/endui)<br>
+[yHook](https://github.com/aceinetx/yHook)<br>
+[Watermelon++](https://github.com/aceinetx/Watermelon)<br>

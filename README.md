@@ -3,7 +3,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=aceinetx\&show_icons=true\&theme=radical&bg_color=161317&title_color=8b57eb&text_color=D8C6CB)
 [![GitHub Streak](https://streak-stats.demolab.com?user=aceinetx&theme=radical&background=161317&ring=8B57EB&sideLabels=D8C6CB&currStreakNum=D8C6CB&sideNums=D8C6CB&fire=8B57EB&currStreakLabel=D8C6CB)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aceinetx&langs_count=24&layout=compact&hide_progress=true&theme=radical&bg_color=161317&title_color=8b57eb&text_color=D8C6CB)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aceinetx&langs_count=26&layout=compact&hide_progress=true&theme=radical&bg_color=161317&title_color=8b57eb&text_color=D8C6CB)](https://github.com/anuraghazra/github-readme-stats)
 ## My fav projects
 [wof](https://github.com/aceinetx/wof)<br>
 [rebuild](https://github.com/aceinetx/rebuild)<br>

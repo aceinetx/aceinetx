@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=100&color=9e57eb&background=16131700&repeat=false&width=435&lines=Hi!+I'm+aceinetx)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=100&color=f54242&background=16131700&repeat=false&width=435&lines=Hi!+I'm+aceinetx)](https://git.io/typing-svg)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=aceinetx\&show_icons=true\&theme=radical&bg_color=161317&title_color=8b57eb&text_color=D8C6CB)
-[![GitHub Streak](https://streak-stats.demolab.com?user=aceinetx&theme=radical&background=161317&ring=8B57EB&sideLabels=D8C6CB&currStreakNum=D8C6CB&sideNums=D8C6CB&fire=8B57EB&currStreakLabel=D8C6CB)](https://git.io/streak-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=aceinetx\&show_icons=true\&theme=radical&bg_color=161317&title_color=f54242&text_color=D8C6CB)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aceinetx&theme=radical&background=161317&ring=f54242&sideLabels=D8C6CB&currStreakNum=D8C6CB&sideNums=D8C6CB&fire=f54242&currStreakLabel=D8C6CB)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aceinetx&langs_count=26&layout=compact&hide_progress=true&theme=radical&bg_color=161317&title_color=8b57eb&text_color=D8C6CB)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aceinetx&langs_count=26&layout=compact&hide_progress=true&theme=radical&bg_color=161317&title_color=f54242&text_color=D8C6CB)](https://github.com/anuraghazra/github-readme-stats)
 ## My fav projects
 [starengine](https://github.com/aceinetx/starengine)<br>
 [zeon](https://github.com/aceinetx/zeon)<br>

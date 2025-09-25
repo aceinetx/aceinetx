@@ -5,6 +5,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aceinetx&langs_count=26&layout=compact&hide_progress=true&theme=radical&bg_color=161317&title_color=f54242&text_color=D8C6CB)](https://github.com/anuraghazra/github-readme-stats)
 ## My fav projects
+[ZenOS](https://github.com/aceinetx/ZenOS)<br>
+[ZenLang](https://github.com/aceinetx/ZenLang)<br>
 [starengine](https://github.com/aceinetx/starengine)<br>
 [zeon](https://github.com/aceinetx/zeon)<br>
 [yHook](https://github.com/aceinetx/yHook)

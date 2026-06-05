@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=100&color=f54242&background=16131700&repeat=false&width=435&lines=Hi!+I'm+aceinetx)](https://git.io/typing-svg)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=aceinetx\&show_icons=true\&theme=radical&bg_color=161317&title_color=f54242&text_color=D8C6CB)
-[![GitHub Streak](https://streak-stats.demolab.com?user=aceinetx&theme=radical&background=161317&ring=f54242&sideLabels=D8C6CB&currStreakNum=D8C6CB&sideNums=D8C6CB&fire=f54242&currStreakLabel=D8C6CB)](https://git.io/streak-stats)
+[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=aceinetx&custom_title=GitHub+Stats&theme=dracula&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
+[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=aceinetx&theme=dracula&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&bg_color=161317&title_color=f54242&text_color=D8C6CB)](https://nice-readme.vercel.app/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aceinetx&langs_count=26&layout=compact&hide_progress=true&theme=radical&bg_color=161317&title_color=f54242&text_color=D8C6CB)](https://github.com/anuraghazra/github-readme-stats)
+[![Top languages](https://helio-github-stats.vercel.app/api/top-langs?username=aceinetx&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&hide_title=true&langs_count=20)](https://nice-readme.vercel.app/top-langs)
